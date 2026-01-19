@@ -1,4 +1,5 @@
-**<h2>LORAicon – Consistent and Simple Map Icons: Addressing the Challenges for AI-Based Generation</h2>**
+**<h2>Addressing the Challenges for AI-Based Generation of Visually Consistent Sets of Map
+Icons With LoRAicon</h2>**
 
 For our LoRAicon output model can be dowloaded from this drive https://drive.google.com/drive/folders/1OT7lGlRBe5yqtyGjvLPPbSiAiMhvLU07?usp=sharing
 
