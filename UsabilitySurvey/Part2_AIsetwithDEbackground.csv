@@ -1,0 +1,541 @@
+Response ID,group,level,aspect,set
+0,Very good,4,Simplicity,1
+1,Good,3,Simplicity,1
+2,Very bad,1,Simplicity,1
+3,Good,3,Simplicity,1
+4,Bad,2,Simplicity,1
+5,Very bad,1,Simplicity,1
+6,Good,3,Simplicity,1
+7,Very good,4,Simplicity,1
+8,Good,3,Simplicity,1
+9,Good,3,Simplicity,1
+10,Bad,2,Simplicity,1
+11,Bad,2,Simplicity,1
+12,Very good,4,Simplicity,1
+13,Very good,4,Simplicity,1
+14,Good,3,Simplicity,1
+15,Very good,4,Simplicity,1
+16,Good,3,Simplicity,1
+17,Good,3,Simplicity,1
+18,Very bad,1,Simplicity,1
+19,Good,3,Simplicity,1
+20,Bad,2,Simplicity,1
+21,Good,3,Simplicity,1
+22,Very good,4,Simplicity,1
+23,Very bad,1,Simplicity,1
+24,Good,3,Simplicity,1
+25,Bad,2,Simplicity,1
+26,Bad,2,Simplicity,1
+27,Good,3,Simplicity,1
+28,Very good,4,Simplicity,1
+29,Good,3,Simplicity,1
+30,Very bad,1,Simplicity,1
+31,Good,3,Simplicity,1
+32,Good,3,Simplicity,1
+33,Very bad,1,Simplicity,1
+34,Good,3,Simplicity,1
+35,Good,3,Simplicity,1
+36,Very good,4,Fill style,1
+37,Very good,4,Fill style,1
+38,Bad,2,Fill style,1
+39,Good,3,Fill style,1
+40,Good,3,Fill style,1
+41,Bad,2,Fill style,1
+42,Bad,2,Fill style,1
+43,Very good,4,Fill style,1
+44,Bad,2,Fill style,1
+45,Good,3,Fill style,1
+46,Bad,2,Fill style,1
+47,Bad,2,Fill style,1
+48,Good,3,Fill style,1
+49,Good,3,Fill style,1
+50,Bad,2,Fill style,1
+51,Good,3,Fill style,1
+52,Very good,4,Fill style,1
+53,Good,3,Fill style,1
+54,Very good,4,Fill style,1
+55,Good,3,Fill style,1
+56,Good,3,Fill style,1
+57,Good,3,Fill style,1
+58,Very good,4,Fill style,1
+59,Very bad,1,Fill style,1
+60,Good,3,Fill style,1
+61,Good,3,Fill style,1
+62,Bad,2,Fill style,1
+63,Bad,2,Fill style,1
+64,Bad,2,Fill style,1
+65,Bad,2,Fill style,1
+66,Bad,2,Fill style,1
+67,Bad,2,Fill style,1
+68,Good,3,Fill style,1
+69,Good,3,Fill style,1
+70,Bad,2,Fill style,1
+71,Good,3,Fill style,1
+72,Good,3,Visual weight,1
+73,Very good,4,Visual weight,1
+74,Bad,2,Visual weight,1
+75,Very good,4,Visual weight,1
+76,Very bad,1,Visual weight,1
+77,Bad,2,Visual weight,1
+78,Good,3,Visual weight,1
+79,Good,3,Visual weight,1
+80,Bad,2,Visual weight,1
+81,Good,3,Visual weight,1
+82,Bad,2,Visual weight,1
+83,Bad,2,Visual weight,1
+84,Good,3,Visual weight,1
+85,Good,3,Visual weight,1
+86,Bad,2,Visual weight,1
+87,Very good,4,Visual weight,1
+88,Very good,4,Visual weight,1
+89,Good,3,Visual weight,1
+90,Very good,4,Visual weight,1
+91,Good,3,Visual weight,1
+92,Bad,2,Visual weight,1
+93,Bad,2,Visual weight,1
+94,Very good,4,Visual weight,1
+95,Very bad,1,Visual weight,1
+96,Bad,2,Visual weight,1
+97,Good,3,Visual weight,1
+98,Good,3,Visual weight,1
+99,Bad,2,Visual weight,1
+100,Good,3,Visual weight,1
+101,Bad,2,Visual weight,1
+102,Good,3,Visual weight,1
+103,Bad,2,Visual weight,1
+104,Good,3,Visual weight,1
+105,Good,3,Visual weight,1
+106,Bad,2,Visual weight,1
+107,Good,3,Visual weight,1
+108,Bad,2,Line thickness,1
+109,Very good,4,Line thickness,1
+110,Very bad,1,Line thickness,1
+111,Good,3,Line thickness,1
+112,Good,3,Line thickness,1
+113,Bad,2,Line thickness,1
+114,Bad,2,Line thickness,1
+115,Good,3,Line thickness,1
+116,Bad,2,Line thickness,1
+117,Bad,2,Line thickness,1
+118,Bad,2,Line thickness,1
+119,Bad,2,Line thickness,1
+120,Bad,2,Line thickness,1
+121,Bad,2,Line thickness,1
+122,Bad,2,Line thickness,1
+123,Good,3,Line thickness,1
+124,Very good,4,Line thickness,1
+125,Very good,4,Line thickness,1
+126,Bad,2,Line thickness,1
+127,Good,3,Line thickness,1
+128,Bad,2,Line thickness,1
+129,Very good,4,Line thickness,1
+130,Very good,4,Line thickness,1
+131,Very bad,1,Line thickness,1
+132,Bad,2,Line thickness,1
+133,Very bad,1,Line thickness,1
+134,Bad,2,Line thickness,1
+135,Very bad,1,Line thickness,1
+136,Bad,2,Line thickness,1
+137,Bad,2,Line thickness,1
+138,Bad,2,Line thickness,1
+139,Good,3,Line thickness,1
+140,Bad,2,Line thickness,1
+141,Good,3,Line thickness,1
+142,Good,3,Line thickness,1
+143,Good,3,Line thickness,1
+144,Very good,4,Corner radius,1
+145,Very good,4,Corner radius,1
+146,Bad,2,Corner radius,1
+147,Good,3,Corner radius,1
+148,Very good,4,Corner radius,1
+149,Good,3,Corner radius,1
+150,Good,3,Corner radius,1
+151,Bad,2,Corner radius,1
+152,Good,3,Corner radius,1
+153,Good,3,Corner radius,1
+154,Bad,2,Corner radius,1
+155,Good,3,Corner radius,1
+156,Bad,2,Corner radius,1
+157,Good,3,Corner radius,1
+158,Good,3,Corner radius,1
+159,Bad,2,Corner radius,1
+160,Good,3,Corner radius,1
+161,Good,3,Corner radius,1
+162,Very good,4,Corner radius,1
+163,Good,3,Corner radius,1
+164,Bad,2,Corner radius,1
+165,Very good,4,Corner radius,1
+166,Very good,4,Corner radius,1
+167,Very good,4,Corner radius,1
+168,Good,3,Corner radius,1
+169,Bad,2,Corner radius,1
+170,Bad,2,Corner radius,1
+171,Very good,4,Corner radius,1
+172,Good,3,Corner radius,1
+173,Good,3,Corner radius,1
+174,Very good,4,Corner radius,1
+175,Bad,2,Corner radius,1
+176,Bad,2,Corner radius,1
+177,Very good,4,Corner radius,1
+178,Good,3,Corner radius,1
+179,Very good,4,Corner radius,1
+180,Good,3,Simplicity,3
+181,Very good,4,Simplicity,3
+182,Bad,2,Simplicity,3
+183,Good,3,Simplicity,3
+184,Good,3,Simplicity,3
+185,Bad,2,Simplicity,3
+186,Good,3,Simplicity,3
+187,Very good,4,Simplicity,3
+188,Bad,2,Simplicity,3
+189,Good,3,Simplicity,3
+190,Bad,2,Simplicity,3
+191,Bad,2,Simplicity,3
+192,Bad,2,Simplicity,3
+193,Good,3,Simplicity,3
+194,Good,3,Simplicity,3
+195,Good,3,Simplicity,3
+196,Good,3,Simplicity,3
+197,Good,3,Simplicity,3
+198,Very bad,1,Simplicity,3
+199,Good,3,Simplicity,3
+200,Bad,2,Simplicity,3
+201,Good,3,Simplicity,3
+202,Very good,4,Simplicity,3
+203,Very bad,1,Simplicity,3
+204,Very good,4,Simplicity,3
+205,Good,3,Simplicity,3
+206,Bad,2,Simplicity,3
+207,Bad,2,Simplicity,3
+208,Good,3,Simplicity,3
+209,Good,3,Simplicity,3
+210,Good,3,Simplicity,3
+211,Good,3,Simplicity,3
+212,Good,3,Simplicity,3
+213,Good,3,Simplicity,3
+214,Good,3,Simplicity,3
+215,Bad,2,Simplicity,3
+216,Very good,4,Fill style,3
+217,Very good,4,Fill style,3
+218,Good,3,Fill style,3
+219,Very good,4,Fill style,3
+220,Bad,2,Fill style,3
+221,Bad,2,Fill style,3
+222,Good,3,Fill style,3
+223,Very good,4,Fill style,3
+224,Good,3,Fill style,3
+225,Good,3,Fill style,3
+226,Good,3,Fill style,3
+227,Good,3,Fill style,3
+228,Bad,2,Fill style,3
+229,Bad,2,Fill style,3
+230,Very good,4,Fill style,3
+231,Good,3,Fill style,3
+232,Good,3,Fill style,3
+233,Very good,4,Fill style,3
+234,Very good,4,Fill style,3
+235,Good,3,Fill style,3
+236,Bad,2,Fill style,3
+237,Very good,4,Fill style,3
+238,Very good,4,Fill style,3
+239,Bad,2,Fill style,3
+240,Very good,4,Fill style,3
+241,Very good,4,Fill style,3
+242,Bad,2,Fill style,3
+243,Good,3,Fill style,3
+244,Good,3,Fill style,3
+245,Bad,2,Fill style,3
+246,Good,3,Fill style,3
+247,Bad,2,Fill style,3
+248,Good,3,Fill style,3
+249,Good,3,Fill style,3
+250,Bad,2,Fill style,3
+251,Good,3,Fill style,3
+252,Good,3,Visual weight,3
+253,Very good,4,Visual weight,3
+254,Bad,2,Visual weight,3
+255,Good,3,Visual weight,3
+256,Good,3,Visual weight,3
+257,Bad,2,Visual weight,3
+258,Good,3,Visual weight,3
+259,Very good,4,Visual weight,3
+260,Good,3,Visual weight,3
+261,Bad,2,Visual weight,3
+262,Good,3,Visual weight,3
+263,Bad,2,Visual weight,3
+264,Good,3,Visual weight,3
+265,Bad,2,Visual weight,3
+266,Bad,2,Visual weight,3
+267,Good,3,Visual weight,3
+268,Good,3,Visual weight,3
+269,Good,3,Visual weight,3
+270,Bad,2,Visual weight,3
+271,Good,3,Visual weight,3
+272,Good,3,Visual weight,3
+273,Very good,4,Visual weight,3
+274,Very good,4,Visual weight,3
+275,Bad,2,Visual weight,3
+276,Very good,4,Visual weight,3
+277,Very good,4,Visual weight,3
+278,Good,3,Visual weight,3
+279,Bad,2,Visual weight,3
+280,Good,3,Visual weight,3
+281,Good,3,Visual weight,3
+282,Good,3,Visual weight,3
+283,Bad,2,Visual weight,3
+284,Bad,2,Visual weight,3
+285,Good,3,Visual weight,3
+286,Good,3,Visual weight,3
+287,Very good,4,Visual weight,3
+288,Very good,4,Line thickness,3
+289,Very good,4,Line thickness,3
+290,Bad,2,Line thickness,3
+291,Good,3,Line thickness,3
+292,Good,3,Line thickness,3
+293,Bad,2,Line thickness,3
+294,Good,3,Line thickness,3
+295,Very good,4,Line thickness,3
+296,Good,3,Line thickness,3
+297,Good,3,Line thickness,3
+298,Bad,2,Line thickness,3
+299,Bad,2,Line thickness,3
+300,Good,3,Line thickness,3
+301,Bad,2,Line thickness,3
+302,Good,3,Line thickness,3
+303,Bad,2,Line thickness,3
+304,Good,3,Line thickness,3
+305,Very good,4,Line thickness,3
+306,Good,3,Line thickness,3
+307,Good,3,Line thickness,3
+308,Good,3,Line thickness,3
+309,Bad,2,Line thickness,3
+310,Very good,4,Line thickness,3
+311,Very bad,1,Line thickness,3
+312,Very good,4,Line thickness,3
+313,Good,3,Line thickness,3
+314,Good,3,Line thickness,3
+315,Very bad,1,Line thickness,3
+316,Bad,2,Line thickness,3
+317,Good,3,Line thickness,3
+318,Very good,4,Line thickness,3
+319,Very good,4,Line thickness,3
+320,Good,3,Line thickness,3
+321,Good,3,Line thickness,3
+322,Good,3,Line thickness,3
+323,Good,3,Line thickness,3
+324,Good,3,Corner radius,3
+325,Very good,4,Corner radius,3
+326,Bad,2,Corner radius,3
+327,Good,3,Corner radius,3
+328,Good,3,Corner radius,3
+329,Good,3,Corner radius,3
+330,Good,3,Corner radius,3
+331,Bad,2,Corner radius,3
+332,Good,3,Corner radius,3
+333,Bad,2,Corner radius,3
+334,Good,3,Corner radius,3
+335,Bad,2,Corner radius,3
+336,Bad,2,Corner radius,3
+337,Good,3,Corner radius,3
+338,Good,3,Corner radius,3
+339,Bad,2,Corner radius,3
+340,Good,3,Corner radius,3
+341,Good,3,Corner radius,3
+342,Very good,4,Corner radius,3
+343,Good,3,Corner radius,3
+344,Good,3,Corner radius,3
+345,Very good,4,Corner radius,3
+346,Very good,4,Corner radius,3
+347,Bad,2,Corner radius,3
+348,Very good,4,Corner radius,3
+349,Bad,2,Corner radius,3
+350,Bad,2,Corner radius,3
+351,Bad,2,Corner radius,3
+352,Good,3,Corner radius,3
+353,Good,3,Corner radius,3
+354,Good,3,Corner radius,3
+355,Bad,2,Corner radius,3
+356,Good,3,Corner radius,3
+357,Very good,4,Corner radius,3
+358,Good,3,Corner radius,3
+359,Good,3,Corner radius,3
+360,Very good,4,Simplicity,5
+361,Very good,4,Simplicity,5
+362,Very bad,1,Simplicity,5
+363,Good,3,Simplicity,5
+364,Good,3,Simplicity,5
+365,Good,3,Simplicity,5
+366,Very good,4,Simplicity,5
+367,Very good,4,Simplicity,5
+368,Bad,2,Simplicity,5
+369,Good,3,Simplicity,5
+370,Bad,2,Simplicity,5
+371,Good,3,Simplicity,5
+372,Very good,4,Simplicity,5
+373,Very good,4,Simplicity,5
+374,Good,3,Simplicity,5
+375,Good,3,Simplicity,5
+376,Good,3,Simplicity,5
+377,Good,3,Simplicity,5
+378,Very bad,1,Simplicity,5
+379,Good,3,Simplicity,5
+380,Bad,2,Simplicity,5
+381,Very good,4,Simplicity,5
+382,Very good,4,Simplicity,5
+383,Very bad,1,Simplicity,5
+384,Good,3,Simplicity,5
+385,Good,3,Simplicity,5
+386,Bad,2,Simplicity,5
+387,Bad,2,Simplicity,5
+388,Very good,4,Simplicity,5
+389,Bad,2,Simplicity,5
+390,Good,3,Simplicity,5
+391,Bad,2,Simplicity,5
+392,Good,3,Simplicity,5
+393,Good,3,Simplicity,5
+394,Good,3,Simplicity,5
+395,Good,3,Simplicity,5
+396,Very good,4,Fill style,5
+397,Very good,4,Fill style,5
+398,Good,3,Fill style,5
+399,Good,3,Fill style,5
+400,Good,3,Fill style,5
+401,Good,3,Fill style,5
+402,Very good,4,Fill style,5
+403,Good,3,Fill style,5
+404,Good,3,Fill style,5
+405,Good,3,Fill style,5
+406,Bad,2,Fill style,5
+407,Good,3,Fill style,5
+408,Good,3,Fill style,5
+409,Good,3,Fill style,5
+410,Good,3,Fill style,5
+411,Good,3,Fill style,5
+412,Very good,4,Fill style,5
+413,Very good,4,Fill style,5
+414,Very good,4,Fill style,5
+415,Good,3,Fill style,5
+416,Good,3,Fill style,5
+417,Very good,4,Fill style,5
+418,Very good,4,Fill style,5
+419,Bad,2,Fill style,5
+420,Good,3,Fill style,5
+421,Very good,4,Fill style,5
+422,Bad,2,Fill style,5
+423,Good,3,Fill style,5
+424,Very good,4,Fill style,5
+425,Very bad,1,Fill style,5
+426,Good,3,Fill style,5
+427,Good,3,Fill style,5
+428,Good,3,Fill style,5
+429,Good,3,Fill style,5
+430,Bad,2,Fill style,5
+431,Good,3,Fill style,5
+432,Good,3,Visual weight,5
+433,Very good,4,Visual weight,5
+434,Bad,2,Visual weight,5
+435,Good,3,Visual weight,5
+436,Very good,4,Visual weight,5
+437,Good,3,Visual weight,5
+438,Very good,4,Visual weight,5
+439,Good,3,Visual weight,5
+440,Good,3,Visual weight,5
+441,Good,3,Visual weight,5
+442,Good,3,Visual weight,5
+443,Good,3,Visual weight,5
+444,Very good,4,Visual weight,5
+445,Good,3,Visual weight,5
+446,Good,3,Visual weight,5
+447,Good,3,Visual weight,5
+448,Very good,4,Visual weight,5
+449,Very good,4,Visual weight,5
+450,Very bad,1,Visual weight,5
+451,Good,3,Visual weight,5
+452,Good,3,Visual weight,5
+453,Very good,4,Visual weight,5
+454,Very good,4,Visual weight,5
+455,Bad,2,Visual weight,5
+456,Good,3,Visual weight,5
+457,Good,3,Visual weight,5
+458,Bad,2,Visual weight,5
+459,Very bad,1,Visual weight,5
+460,Very good,4,Visual weight,5
+461,Good,3,Visual weight,5
+462,Good,3,Visual weight,5
+463,Very good,4,Visual weight,5
+464,Good,3,Visual weight,5
+465,Bad,2,Visual weight,5
+466,Good,3,Visual weight,5
+467,Good,3,Visual weight,5
+468,Bad,2,Line thickness,5
+469,Very good,4,Line thickness,5
+470,Bad,2,Line thickness,5
+471,Good,3,Line thickness,5
+472,Bad,2,Line thickness,5
+473,Good,3,Line thickness,5
+474,Very good,4,Line thickness,5
+475,Very good,4,Line thickness,5
+476,Good,3,Line thickness,5
+477,Very good,4,Line thickness,5
+478,Good,3,Line thickness,5
+479,Bad,2,Line thickness,5
+480,Good,3,Line thickness,5
+481,Bad,2,Line thickness,5
+482,Bad,2,Line thickness,5
+483,Good,3,Line thickness,5
+484,Very good,4,Line thickness,5
+485,Very good,4,Line thickness,5
+486,Bad,2,Line thickness,5
+487,Good,3,Line thickness,5
+488,Bad,2,Line thickness,5
+489,Good,3,Line thickness,5
+490,Very good,4,Line thickness,5
+491,Bad,2,Line thickness,5
+492,Good,3,Line thickness,5
+493,Bad,2,Line thickness,5
+494,Good,3,Line thickness,5
+495,Good,3,Line thickness,5
+496,Very good,4,Line thickness,5
+497,Very bad,1,Line thickness,5
+498,Good,3,Line thickness,5
+499,Good,3,Line thickness,5
+500,Bad,2,Line thickness,5
+501,Bad,2,Line thickness,5
+502,Very good,4,Line thickness,5
+503,Good,3,Line thickness,5
+504,Good,3,Corner radius,5
+505,Very good,4,Corner radius,5
+506,Bad,2,Corner radius,5
+507,Good,3,Corner radius,5
+508,Good,3,Corner radius,5
+509,Good,3,Corner radius,5
+510,Very good,4,Corner radius,5
+511,Very good,4,Corner radius,5
+512,Very good,4,Corner radius,5
+513,Very good,4,Corner radius,5
+514,Bad,2,Corner radius,5
+515,Good,3,Corner radius,5
+516,Good,3,Corner radius,5
+517,Very good,4,Corner radius,5
+518,Good,3,Corner radius,5
+519,Bad,2,Corner radius,5
+520,Very good,4,Corner radius,5
+521,Good,3,Corner radius,5
+522,Bad,2,Corner radius,5
+523,Good,3,Corner radius,5
+524,Good,3,Corner radius,5
+525,Good,3,Corner radius,5
+526,Very good,4,Corner radius,5
+527,Bad,2,Corner radius,5
+528,Good,3,Corner radius,5
+529,Bad,2,Corner radius,5
+530,Very bad,1,Corner radius,5
+531,Very bad,1,Corner radius,5
+532,Very good,4,Corner radius,5
+533,Bad,2,Corner radius,5
+534,Good,3,Corner radius,5
+535,Good,3,Corner radius,5
+536,Good,3,Corner radius,5
+537,Good,3,Corner radius,5
+538,Bad,2,Corner radius,5
+539,Good,3,Corner radius,5
